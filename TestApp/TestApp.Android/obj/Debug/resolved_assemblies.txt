@@ -3,6 +3,7 @@
 /Users/alexanderrummel/Development/GTUE/TestRepo/TestApp/TestApp.Android/obj/Debug/android/assets/Java.Interop.dll
 /Users/alexanderrummel/Development/GTUE/TestRepo/TestApp/TestApp.Android/obj/Debug/android/assets/Mono.Android.dll
 /Users/alexanderrummel/Development/GTUE/TestRepo/TestApp/TestApp.Android/obj/Debug/android/assets/mscorlib.dll
+/Users/alexanderrummel/Development/GTUE/TestRepo/TestApp/TestApp.Android/obj/Debug/android/assets/Newtonsoft.Json.dll
 /Users/alexanderrummel/Development/GTUE/TestRepo/TestApp/TestApp.Android/obj/Debug/android/assets/System.Core.dll
 /Users/alexanderrummel/Development/GTUE/TestRepo/TestApp/TestApp.Android/obj/Debug/android/assets/System.dll
 /Users/alexanderrummel/Development/GTUE/TestRepo/TestApp/TestApp.Android/obj/Debug/android/assets/System.Xml.dll
@@ -49,7 +50,6 @@
 /Users/alexanderrummel/Development/GTUE/TestRepo/TestApp/TestApp.Android/obj/Debug/android/assets/System.Net.Http.dll
 /Users/alexanderrummel/Development/GTUE/TestRepo/TestApp/TestApp.Android/obj/Debug/android/assets/System.Runtime.Serialization.dll
 /Users/alexanderrummel/Development/GTUE/TestRepo/TestApp/TestApp.Android/obj/Debug/android/assets/System.ServiceModel.Internals.dll
-/Users/alexanderrummel/Development/GTUE/TestRepo/TestApp/TestApp.Android/obj/Debug/android/assets/Mono.Security.dll
 /Users/alexanderrummel/Development/GTUE/TestRepo/TestApp/TestApp.Android/obj/Debug/android/assets/netstandard.dll
 /Users/alexanderrummel/Development/GTUE/TestRepo/TestApp/TestApp.Android/obj/Debug/android/assets/System.Data.dll
 /Users/alexanderrummel/Development/GTUE/TestRepo/TestApp/TestApp.Android/obj/Debug/android/assets/System.Numerics.dll
@@ -64,3 +64,4 @@
 /Users/alexanderrummel/Development/GTUE/TestRepo/TestApp/TestApp.Android/obj/Debug/android/assets/System.Security.SecureString.dll
 /Users/alexanderrummel/Development/GTUE/TestRepo/TestApp/TestApp.Android/obj/Debug/android/assets/System.Web.Services.dll
 /Users/alexanderrummel/Development/GTUE/TestRepo/TestApp/TestApp.Android/obj/Debug/android/assets/System.Xml.XPath.XDocument.dll
+/Users/alexanderrummel/Development/GTUE/TestRepo/TestApp/TestApp.Android/obj/Debug/android/assets/Mono.Security.dll

@@ -108,6 +108,7 @@ class MonoPackageManager_Resources {
 		/* We need to ensure that "TestApp.Android.dll" comes first in this list. */
 		"TestApp.Android.dll",
 		"FormsViewGroup.dll",
+		"Newtonsoft.Json.dll",
 		"TestApp.dll",
 		"Xamarin.Android.Arch.Core.Common.dll",
 		"Xamarin.Android.Arch.Lifecycle.Common.dll",

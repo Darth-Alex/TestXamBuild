@@ -28,8 +28,6 @@
 /Users/alexanderrummel/Development/GTUE/TestRepo/TestApp/TestApp.Android/obj/Debug/R.cs.flag
 /Users/alexanderrummel/Development/GTUE/TestRepo/TestApp/TestApp.Android/obj/Debug/R.txt
 /Users/alexanderrummel/Development/GTUE/TestRepo/TestApp/TestApp.Android/obj/Debug/uploadflags.txt
-/Users/alexanderrummel/.nuget/packages/xamarin.forms/3.0.0.482510/lib/MonoAndroid10/FormsViewGroup.dll
-/Users/alexanderrummel/.nuget/packages/xamarin.forms/3.0.0.482510/lib/MonoAndroid10/Xamarin.Forms.Platform.Android.dll
 /Users/alexanderrummel/Development/GTUE/TestRepo/TestApp/TestApp.Android/bin/Debug/Mono.Android.pdb
 /Users/alexanderrummel/Development/GTUE/TestRepo/TestApp/TestApp.Android/bin/Debug/Xamarin.Forms.Core.pdb
 /Users/alexanderrummel/Development/GTUE/TestRepo/TestApp/TestApp.Android/bin/Debug/Xamarin.Forms.Xaml.pdb
