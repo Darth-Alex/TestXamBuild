@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 
 using Foundation;
+using Ninject;
 using UIKit;
 
 namespace TestApp.iOS
@@ -25,6 +26,7 @@ namespace TestApp.iOS
             global::Xamarin.Forms.Forms.Init();
             LoadApplication(new App());
 
+            IKernel kernel = new StandardKernel();
             return base.FinishedLaunching(app, options);
         }
     }

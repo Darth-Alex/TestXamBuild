@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETStandard,Version=v2.0/",
-    "signature": "17330d8881b7bc0abd366bf5ebf424cdf0c09e55"
+    "signature": "dc5dc74f1727dbc20a0295825392de94fb038396"
   },
   "compilationOptions": {},
   "targets": {
@@ -11,6 +11,7 @@
         "dependencies": {
           "NETStandard.Library": "2.0.1",
           "Newtonsoft.Json": "11.0.2",
+          "Portable.Ninject": "3.3.1",
           "Xamarin.Forms": "3.0.0.482510"
         },
         "runtime": {
@@ -26,6 +27,11 @@
       "Newtonsoft.Json/11.0.2": {
         "runtime": {
           "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      },
+      "Portable.Ninject/3.3.1": {
+        "runtime": {
+          "lib/portable-net4+sl5+wp8+win8+wpa81+monotouch+monoandroid+Xamarin.iOS/Ninject.dll": {}
         }
       },
       "Xamarin.Forms/3.0.0.482510": {
@@ -63,6 +69,13 @@
       "sha512": "sha512-IvJe1pj7JHEsP8B8J8DwlMEx8UInrs/x+9oVY+oCD13jpLu4JbJU2WCIsMRn5C4yW9+DgkaO8uiVE5VHKjpmdQ==",
       "path": "newtonsoft.json/11.0.2",
       "hashPath": "newtonsoft.json.11.0.2.nupkg.sha512"
+    },
+    "Portable.Ninject/3.3.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hq+v/D/rxNSStlfV0hVlfIQKVEbj2AsZKcuuUqqPpOnuD6HSl4ku3fvgQ7u6ffAh6ZwHUBG3pdP7PS+eb+Kumw==",
+      "path": "portable.ninject/3.3.1",
+      "hashPath": "portable.ninject.3.3.1.nupkg.sha512"
     },
     "Xamarin.Forms/3.0.0.482510": {
       "type": "package",

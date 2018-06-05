@@ -1,8 +1,9 @@
 ﻿<Properties StartupConfiguration="{048C403D-B9EA-400B-B0EE-5B2B1AA192C7}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="TestApp/MainPage.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestApp.iOS/AppDelegate.cs">
     <Files>
       <File FileName="TestApp/MainPage.xaml" Line="7" Column="15" />
-      <File FileName="TestApp/MainPage.xaml.cs" Line="13" Column="25" />
+      <File FileName="TestApp/MainPage.xaml.cs" Line="22" Column="37" />
+      <File FileName="TestApp.iOS/AppDelegate.cs" Line="28" Column="16" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
