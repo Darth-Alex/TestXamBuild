@@ -1,0 +1,9 @@
+/Users/alexanderrummel/Development/GTUE/TestRepo/TestApp/TestApp/bin/Debug/netstandard2.0/TestApp.deps.json
+/Users/alexanderrummel/Development/GTUE/TestRepo/TestApp/TestApp/bin/Debug/netstandard2.0/TestApp.dll
+/Users/alexanderrummel/Development/GTUE/TestRepo/TestApp/TestApp/bin/Debug/netstandard2.0/TestApp.pdb
+/Users/alexanderrummel/Development/GTUE/TestRepo/TestApp/TestApp/obj/Debug/netstandard2.0/TestApp.csprojResolveAssemblyReference.cache
+/Users/alexanderrummel/Development/GTUE/TestRepo/TestApp/TestApp/obj/Debug/netstandard2.0/TestApp.csproj.CoreCompileInputs.cache
+/Users/alexanderrummel/Development/GTUE/TestRepo/TestApp/TestApp/obj/Debug/netstandard2.0/TestApp.AssemblyInfoInputs.cache
+/Users/alexanderrummel/Development/GTUE/TestRepo/TestApp/TestApp/obj/Debug/netstandard2.0/TestApp.AssemblyInfo.cs
+/Users/alexanderrummel/Development/GTUE/TestRepo/TestApp/TestApp/obj/Debug/netstandard2.0/TestApp.dll
+/Users/alexanderrummel/Development/GTUE/TestRepo/TestApp/TestApp/obj/Debug/netstandard2.0/TestApp.pdb
